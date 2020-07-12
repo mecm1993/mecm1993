@@ -2,7 +2,7 @@
 
 ## Hello World!
 
-I'm [Manuel Cepeda](https://manuelcepeda.dev) a Software Developer from one of the most beautiful [islands](https://en.wikipedia.org/wiki/Dominican_Republic) in the world.
+I'm [Manuel Cepeda](https://manuelcepeda.dev) a Software Developer from [one](https://en.wikipedia.org/wiki/Dominican_Republic) of the most beautiful islands in the world.
 
 #### More about me
 
