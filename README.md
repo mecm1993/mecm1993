@@ -12,3 +12,6 @@ I'm [Manuel Cepeda](https://manuelcepeda.dev) a Software Developer from [one](ht
 <a href="https://twitter.com/mecm1993">
   <img align="left" alt="Manuel Cepeda | Twitter" width="21px" src="https://raw.githubusercontent.com/mecm1993/mecm1993/master/assets/twitter.svg" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
