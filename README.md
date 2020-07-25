@@ -1,6 +1,7 @@
-<img alt="Ah, I see you're a man of culture as well" width="100%" src="https://raw.githubusercontent.com/mecm1993/mecm1993/master/assets/background.gif">
+<h2> Hello World!</h2>
 
-## Hello World!
+<div style="display:inline-block">
+<img alt="Ah, I see you're a man of culture as well" align="left" width="60%" style="margin: 10px" src="https://raw.githubusercontent.com/mecm1993/mecm1993/master/assets/background.gif">
 
 I'm [Manuel Cepeda](https://manuelcepeda.dev) a Software Developer from [one](https://en.wikipedia.org/wiki/Dominican_Republic) of the most beautiful islands in the world.
 
@@ -14,6 +15,7 @@ I'm [Manuel Cepeda](https://manuelcepeda.dev) a Software Developer from [one](ht
 </a>
 <br />
 <br />
+</div>
 
 <!--START_SECTION:waka-->
 **I'm a night 🦉** 
