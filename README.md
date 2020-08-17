@@ -27,19 +27,19 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 458 Contributions in 2020
+> 🏆 458 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 39 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
 **I'm a Night 🦉** 
 
@@ -50,7 +50,7 @@
 🌙 Night      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.87%
 
 ```
-📅 **I'm Most Productive on Mondays** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       87 commits     █████░░░░░░░░░░░░░░░░░░░░   23.2% 
@@ -64,12 +64,12 @@ Sunday       34 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/Santo_Domingo
+⌚︎ Time zone: America/Santo_Domingo
 
-💬 Languages: 
+💬 Programming Languages: 
 TypeScript               4 hrs 37 mins       █████████████████░░░░░░░░   70.25% 
 JavaScript               1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
 CSS                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
