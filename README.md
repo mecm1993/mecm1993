@@ -70,7 +70,7 @@ Sunday       33 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
