@@ -70,7 +70,9 @@ Sunday       38 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Santo_Domingo
 
 💬 Programming Languages: 
-JavaScript               28 mins             █████████████████████████   100.0%
+Vue.js                   1 hr 13 mins        ██████████████████░░░░░░░   71.72% 
+JavaScript               28 mins             ███████░░░░░░░░░░░░░░░░░░   27.88% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
 
 ```
 
@@ -88,7 +90,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/mecm1993/mecm1993/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/mecm1993/mecm1993/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
